@@ -1,0 +1,65 @@
+1. Topologi Mesh Menghubungkan perangkat kempuran Secara langsung tanpa perantara. 
+
+Kelebihan.
+1. kesalahan pengiriman data dapat ditemukan dgn mudah
+2. Fleksibel dlm penambahan dan penghapusan data perangkat dari jaringan.
+3. Penambahan perangkat tidak mengganggu operasi perangkat lain.
+4. tingkat redundansi yg tinggi dan mengurangi resiko gagal Koneksi
+
+kekurangan.
+1. Membutuhkan biaya lebih besar utk penyediaan Kabel jaringan
+2. Proses instalasi mesh cakup rumit dan harus dilakukan ahli bidang Computer Network
+3. Kurang efektif digunakan untuk wide area network karena kesulitan dan Kerumitannya.
+
+2. Topologi Star: Jaringan yg berbentuk bintang. dimana jaringan perangkat berhubung dgn node pusat
+
+Kelebihan
+1. Mudah di instalasi
+2. Mudah diperluas
+3. walauupun Satu perangkat rusak , tidak memengaruhi jalannya jaringan.
+4. Efektivitas Biaya
+5. Kemudahan penyebaran
+6. Relatif aman dari hal kehilangan data
+
+Kekurangan
+1. Sangat bergantung dgn perangkat pusat
+2. Butuh banyak kabel
+3. Hub/Switch membutuhkan banyak Perhatian
+4. Traffic yg padat dapat mengurangi Kecepatan Data
+
+3. Topologi Bus: Cara menghubungkan perang kat Komputer dgn Kabel bus sbg media transmisi.
+
+Kelebihan:
+1. Konfigurası Sederhana 
+2. Mudah diinstal dan dioperasikan
+3. Efisien untuk Jaringan skala kecil
+4. Fleksibel untuk perluasan atau konfigurasi ulang Jaringan 
+5. Mudah menambahkan atau mengurangi Perangkat
+6. Hemat biaya karena butuh Sedikit Kabel dan peralatan
+
+Kekurangan
+1. Potensi perlemahan jaringan terutama jika ada banyak perangkat yang ditambahkan
+2. Kesalahan Sulit Terdeteksi
+3. kaposites Kabel panjag dan jumlah komputer terbatas
+4. Harga perneliharaan lebih mahal
+3. Jika traffic berat atau ada penambahan komputer. baru, maka performa jaringan akan menurun. 
+4. Jaringan akan melambat jika komputer berjumlah banyak
+
+4. Topologi Ring: Struktur Jaringan komputer berbentuk Cincin, dimana setiap perangkat terhubung ke 2 perangkat lainnya.
+
+Kelebihan:
+1. Instalasi Mudah
+2. Data mengalir Satu arah sehingga mengurangi tabrakan data.
+3. Kontrol lebih mudah karena tidak memerlukan Server jaringan atau Node pusat
+4. Data dapat di transfer dgn kecepatan tinggi
+5. Data akan sulit diakses pihak yg tidak berwenang Karena data yg dikirimkan dalan bentuk Signal Searah
+
+kekurangan:
+1. Kerusakan pada satu titik akan berdampak Pada titik lainnya 
+2. Jika Satu perangkat mengalami kegagalan maka seluruh jaringan akan Terpengaruh.
+
+Kesimpulan
+
+Dari semua topologi yang dibahas, Topologi Mesh adalah Topologi yang Versitale dan bagus daripada ke-3 topologi lainnya walaupun ada beberapa kekurangan topologi Mesh.
+Banyak pula kelebihan yg menguntungkan daripada Topologi lain. Karena Walaupun Topologi lain juga memiliki banyak kelelahan.
+tetapi Kekurangan mereka akan Berpengaruh kepada jalan dan juga kepada data itu sendiri.
